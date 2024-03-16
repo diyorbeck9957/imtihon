@@ -1,0 +1,394 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  display: flex;
+}
+.navbar b {
+  position: relative;
+  bottom: 414px;
+  right: 270px;
+  color: white;
+}
+.mainer {
+  width: 1000px;
+  height: 900px;
+}
+.next {
+  position: absolute;
+  bottom: 8px;
+  left: 999px;
+  width: 1010px;
+  height: 900px;
+}
+.left {
+  position: relative;
+  right: 1500px;
+  bottom: 350px;
+  color: white;
+}
+.right {
+  position: relative;
+  right: 200px;
+  bottom: 345px;
+  color: white;
+}
+.glavnaya h1 {
+  position: relative;
+  bottom: 280px;
+  color: white;
+  font-size: 64px;
+  margin-left: 40px;
+}
+.glavnaya p {
+  position: relative;
+  bottom: 240px;
+  margin-left: 60px;
+  color: white;
+}
+.discovery {
+  position: relative;
+  bottom: 230px;
+  margin-left: 60px;
+  padding: 13px 14px 13px 14px;
+  background: none;
+  color: white;
+  border: 1px solid white;
+}
+
+.left h1 {
+  position: absolute;
+  top: 10px;
+  left: 700px;
+}
+.praviy{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 600px;
+  position: relative;
+  bottom: 150px;
+}
+.dot{
+  color: red;
+  font-size: 50px;
+}
+.uno{
+  width: 240px;
+  height: 240px;
+}
+.praviy h1{
+  font-size: 28px;
+  position: relative;
+  right: 170px;
+  color: white;
+}
+.sky{
+  width: 1000px;
+  height: 900px;
+}
+.dive{
+  width: 1000px;
+  height: 900px;
+  position: relative;
+  bottom: 900px;
+  left: 900px;
+  
+}
+.journey{
+  position: relative;
+  bottom: 1100px;
+}
+.journey h1{
+  color: white;
+}
+.journey p{
+  color: white;
+}
+.sequel{
+  padding: 13px 14px 13px 14px;
+  background: none;
+  color: white;
+  border: 1px solid white;
+}
+.classy{
+  Width:558px;
+  Height:419px;
+  position: relative;
+  bottom: 900px;
+  left: 200px;
+}
+.sassy{
+  Width:558px;
+  Height:419px;
+  position: relative;
+  left: 800px;
+  bottom: 1415px;
+}
+.classic{
+  position: relative;
+  bottom: 1300px;
+  color: white;
+  left: 250px;
+}
+.retro{
+  position: relative;
+  bottom: 1300px;
+  color: white;
+  left: 250px;
+}
+.female{
+  color: white;
+  position: relative;
+  left: 1100px;
+  bottom: 1820px;
+}
+.feminine{
+  color: white;
+  position: relative;
+  left: 1100px;
+  bottom: 1820px;
+}
+.shopping{
+  position: relative;
+  bottom: 1200px;
+  
+}
+.spisok{
+  position: relative;
+  left: 500px;
+  bottom: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.duo{
+  width: 240px;
+  height: 240px;
+}
+.thrones{
+  position: relative;
+  right: 150px;
+  color: white;
+  font-size: 18px;
+}
+.jackets{
+  position: relative;
+  bottom: 1000px;
+}
+.divided img{
+  width: 800px;
+  height: 800px;
+}
+
+
+.bestseller{
+  position: relative;
+  left: 210px;
+  top: 30px;
+  padding: 13px 14px 13px 14px;
+  background: none;
+  color: white;
+  border: 1px solid white;
+  width: 50%;
+}
+.bestsellers{
+ position: relative;
+ top: 60px;
+ left: 210px;
+  padding: 13px 14px 13px 14px;
+  background: none;
+  color: white;
+  border: 1px solid white;
+  width: 50%;
+}
+
+
+.best {
+  width: 100%;
+  height: 700px;
+  display: flex;
+  position: relative;
+  bottom: 1000px;
+}
+
+.left1 {
+  Width:1200px;
+  Height:800px;
+}
+
+.right1 {
+  Width:1200px;
+  Height:1537px;
+  background-color: #23293C;
+}
+.right1 h1{
+  position: relative;
+  left: 220px;
+  margin-top: 600px;
+  color: white;
+}
+.right1 p{
+  color: white;
+  position: relative;
+  left: 220px;
+}
+.insider h1{
+  position: relative;
+  left: 90px;
+}
+.insider b{
+  position: relative;
+  left: 1400px;
+  bottom: 50px;
+  color: #0e0f10;
+  font-size: 15px;
+}
+.bottomlist{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 800px;
+}
+
+.separated img {
+  width: 300px;
+  height: 400px;
+  margin-right: 60px;
+}
+.ikki img{
+  position: relative;
+  right: 30px;
+  width: 300px;
+  height: 400px;
+}
+.uch img{
+  width: 300px;
+  height: 400px;
+}
+.tort img{
+  width: 300px;
+  height: 400px;
+  margin-left: 60px;
+}
+.separated h1{
+  position: relative;
+  top: 12px;
+  font-size: 12px;
+  left: 50px;
+}
+.ikki h1{
+  position: relative;
+  top: 12px;
+  font-size: 12px;
+  left: 40px;
+}
+.title{
+  position: relative;
+  font-size: 12px;
+  top: 12px ;
+  left: 30px;
+}
+.titul{
+  position: relative;
+  left: 130px;
+  top: 12px;
+  font-size: 12px;
+}
+.separated p{
+  position: relative;
+  left: 100px;
+  top: 20px;
+}
+.ikki p{
+  position: relative;
+  left: 70px;
+  top: 20px;
+}
+.another{
+  position: relative;
+  top: 20px;
+  left: 80px;
+}
+.something{
+  position: relative;
+  top: 20px;
+  left: 160px;
+}
+
+/* .separated img{
+  position: relative;
+  right: 190px;
+  width: 261px;
+  height: 281px;
+}
+.ikki img{
+  position: relative;
+  right: 80px;
+  width: 261px;
+  height: 281px;
+}
+.uch img{
+  position: relative;
+left: 60px;
+  width: 261px;
+  height: 281px;
+}
+.tort img{
+  position: relative;
+  left: 130px;
+  width: 261px;
+  height: 281px;
+}
+.title{
+  font-size: 12px;
+  position: relative;
+  top: 20px ;
+  left: 130px;
+}
+.another{
+  position: relative;
+  left: 220px;
+  top: 20px;
+}
+.separated h1{
+  font-size: 12px;
+  position: relative;
+  top: 20px;
+  right:190px ;
+}
+.ikki h1{
+  font-size: 12px;
+  position: relative;
+  top: 20px;
+  right: 20px;
+}
+.separated p{
+  position: relative;
+  top: 20px;
+  right: 70px;
+}
+.ikki p{
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+.another{
+  position: relative;
+  left: 150px;
+}
+.duress{
+  position: relative;
+  left: 200px;
+  top: 20px;
+  font-size: 12px;
+}
+.something{
+  position: relative;
+  left: 240px;
+  top: 20px;
+} */
